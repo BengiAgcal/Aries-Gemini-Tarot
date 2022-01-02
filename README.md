@@ -19,4 +19,4 @@ In this app you can fill a small test, upload a selfie to detect your mood and r
 
 You can also browse through cards and get a random reading. 
 
-![Demo](https://www.youtube.com/watch?v=QnuZX_3qZvA)
+https://www.youtube.com/watch?v=QnuZX_3qZvA
